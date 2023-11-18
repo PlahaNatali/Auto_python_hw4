@@ -1,0 +1,13 @@
+folder_in: /home/user2/tst
+folder_out: /home/user2/out
+folder_ext: /home/user2/folder1
+folder_ext2: /home/user2/folder2
+count: 5
+bs: 1M
+archive_type: zip
+stat_file: /home/user/stat.txt
+log_file: /home/user/log.txt
+host: 0.0.0.0
+user: user2
+passwd: 2222
+port: 22
